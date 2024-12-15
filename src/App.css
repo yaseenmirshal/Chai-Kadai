@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #ff8c00;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem;
+  background-color: #ffe4b5;
+}
